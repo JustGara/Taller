@@ -1,2 +1,2 @@
-# Taller
- Solución taller Python Aplicado
+# Michelangelos
+ Ejercicio sobre Listas y Ciclos
